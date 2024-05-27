@@ -1,6 +1,6 @@
 # dummethx
 
-my own laboratory module for kernel networking, with the terrible name on it
+my Linux laboratory module for kernel networking, with the terrible name on it
 
 
 **Disclaimer : I am not liable for any misuse of this code**
